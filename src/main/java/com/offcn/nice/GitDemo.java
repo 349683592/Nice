@@ -2,6 +2,6 @@ package com.offcn.nice;
 
 public class GitDemo {
     public static void main(String[] args) {
-        System.out.println("Gitdemo");
+        System.out.println("Gitdemohhuihiu");
     }
 }
